@@ -1,0 +1,25 @@
+li{
+  color:black;
+  background-color: rgb(46, 61, 87);
+}
+ul{
+  color:rgb(255, 0, 0);
+  background-color: rgb(3, 247, 255);
+}
+h1{
+  color: aqua;
+  background-color: lime;
+}
+html{
+  background-color: blue;
+}
+a{
+  color: rgb(217, 255, 0);
+}
+table{
+  color:rgb(255, 0, 0);
+  background-color:cyan;
+}
+p{
+  color:ghostwhite;
+}
