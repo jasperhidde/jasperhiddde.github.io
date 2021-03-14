@@ -1,0 +1,69 @@
+li{
+  color:black;
+  background-color: rgb(46, 61, 87);
+}
+ul{
+  color:rgb(255, 0, 0);
+  background-color: rgb(3, 247, 255);
+}
+h1{
+  color: rgb(183, 0, 255);
+  border: 4px solid  blue;
+  border-radius: 20px 0px 20px 0px;
+  margin: 1%;
+  background-color: lime;
+  text-align: center;
+}
+h2{
+  text-align: center;
+  font-family: algerian;
+  border: 4px solid green;
+  border-radius: 20px 0px 20px 0px;
+  margin: 0px 25px 40px 10px;
+  padding: 5px;
+}
+html{
+  background-color: white;
+}
+a{
+  color: rgb(217, 255, 0);
+}
+table.personen { /* Een rand om de buitenkant alleen*/
+  border: 1px solid black;
+  border-collapse: collapse;
+} 
+
+table.personen th { 
+  /* Een rand om de headers alleen*/
+  border: 1px solid red;
+} 
+table.personen td { 
+  /* Een rand om de andere cellen alleen*/
+  border: 1px solid green;
+} 
+p{
+  color:black;
+  
+}
+#menu li { /* de list items */
+  display: inline;
+  float: left;
+  border: 1px solid red;
+}
+#menu {
+  background-color: grey;
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+}
+#menu a {  /* Selecteer de links uit het menu*/
+  color: white;
+  text-decoration: none;
+  display: block;
+  padding: 15px;
+}
+
+#menu a:hover {  /* Als je met je muis over een link gaat*/
+  color: black;
+  background-color: white;
+}
