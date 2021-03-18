@@ -1,2 +1,2 @@
-# jasperhiddde.github.io
+# jasperhidde.github.io
 mijn  website
